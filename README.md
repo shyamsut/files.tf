@@ -1,5 +1,4 @@
-# Terraform In One Shot
-This repository is your one stop solution for Terraform for DevOps Engineers 
+
 
 # Terraform Commands - Complete Guide
 
@@ -163,8 +162,4 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 
 ### Terraform to EKS
 [Get it here](https://github.com/DevMadhup/Springboot-BankApp/tree/DevOps/Terraform/EKS-Deployment)
-
-## **Final Thoughts**
-This README covers all the Terraform commands needed for your **"Terraform in One Shot"** video. Let me know if you need modifications or extra details! 🚀
-
 
